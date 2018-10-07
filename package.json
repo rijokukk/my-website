@@ -1,0 +1,21 @@
+{
+  "name": "oma-sivu",
+  "version": "1.0.0",
+  "description": "Riku Kukkaniemen portfolio.",
+  "author": "Riku Kukkaniemi",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "heroku-postbuild": "npm run build"
+  },
+  "dependencies": {
+    "axios": "^0.17.1",
+    "nuxt": "^1.4.1"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1"
+  }
+}
