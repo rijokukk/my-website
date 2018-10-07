@@ -1,6 +1,9 @@
-# My own website at www.rikukukkaniemi.com
+# My own website at http://www.rikukukkaniemi.com
 
 > Made by using Nuxt.js 
+
+> Includes the code of Math Monster
+> http://www.rikukukkaniemi.com/math-monster
 
 ## Build Setup
 
